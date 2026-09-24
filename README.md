@@ -1,6 +1,7 @@
 # Retail Sales Performance Dashboard
 
 **Tools:** Excel (XLOOKUP, VLOOKUP, PivotTables, Slicers)
+**Full write-up:** https://app.notion.com/p/3e3b332e9de2816d8cf5caff349f63fd (Notion case study)
 
 ## Overview
 Consolidated three separate raw tables — Transactions (9,749 rows), Customers (9,995 rows), and Products (1,691 rows) — into a single clean dataset of 8,413 rows, then built an interactive sales dashboard filterable by Segment, Region, Category, and Year.
